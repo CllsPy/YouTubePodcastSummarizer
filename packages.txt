@@ -1,0 +1,10 @@
+torch 
+transformers
+sentencepiece
+youtube-transcript-api
+streamlit
+google-generativeai
+requests
+beautifulsoup4
+yt-dlp
+pytube
